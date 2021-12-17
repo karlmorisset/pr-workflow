@@ -1,4 +1,4 @@
-# Project 3 - Starter Kit - Symfony 5.* avec des mdfctions
+# Project 3 - Starter Kit - Symfony 5.* avec des modifications
 
 ## Presentation
 
